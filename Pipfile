@@ -11,6 +11,10 @@ djangorestframework = "*"
 django-cors-headers = "*"
 django-filter = "*"
 psycopg2 = "==2.7.0"
+python-dotenv = "*"
+django-rest-auth = "*"
+django-allauth = "*"
+djangorestframework-jwt = "*"
 
 [requires]
 python_version = "3.7"
